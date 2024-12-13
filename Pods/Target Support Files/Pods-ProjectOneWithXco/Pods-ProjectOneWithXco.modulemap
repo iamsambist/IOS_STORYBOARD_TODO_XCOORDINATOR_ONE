@@ -1,0 +1,6 @@
+framework module Pods_ProjectOneWithXco {
+  umbrella header "Pods-ProjectOneWithXco-umbrella.h"
+
+  export *
+  module * { export * }
+}

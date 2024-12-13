@@ -1,0 +1,18 @@
+PODS:
+  - XCoordinator (2.2.1):
+    - XCoordinator/Core (= 2.2.1)
+  - XCoordinator/Core (2.2.1)
+
+DEPENDENCIES:
+  - XCoordinator (~> 2.1)
+
+SPEC REPOS:
+  trunk:
+    - XCoordinator
+
+SPEC CHECKSUMS:
+  XCoordinator: 2cf9f72e10998b7a4a4bbeac3d07e071ea82fca3
+
+PODFILE CHECKSUM: 5ee30db442966557e38ab5f00daa4713b2abb91d
+
+COCOAPODS: 1.16.2
